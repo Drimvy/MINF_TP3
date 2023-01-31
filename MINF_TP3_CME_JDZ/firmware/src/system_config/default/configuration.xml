@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+    <General>
+        <HarmonyPath path="../../../../.."/>
+        <Board name=" "/>
+        <Processor name="PIC32MK0512GPD064"/>
+    </General>
+</Configuration>
