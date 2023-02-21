@@ -17,6 +17,9 @@
                 <sourceRootElem>../src</sourceRootElem>
                 <sourceRootElem>../../../../..</sourceRootElem>
                 <sourceRootElem>../../../../../../../../../../Users/carmieville/OneDrive - Education Vaud/Bureau/TP3_MenuGen/Fichiers_Tp3</sourceRootElem>
+                <sourceRootElem>..\src</sourceRootElem>
+                <sourceRootElem>..\src\default</sourceRootElem>
+                <sourceRootElem>..\src\system_config\default</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>
